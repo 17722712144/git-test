@@ -9,5 +9,8 @@ public class git {
         System.out.println("Hot-fix test!");
         System.out.println("Hot-fix test!");
         System.out.println("push test!");
+        System.out.println("push test!");
+        System.out.println("push test!");
+        System.out.println("push test!");
     }
 }
